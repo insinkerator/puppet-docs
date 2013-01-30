@@ -1,6 +1,7 @@
 How to Write Documentation
 ==========================
 
+
 The Basic Rules
 ---------------
 
